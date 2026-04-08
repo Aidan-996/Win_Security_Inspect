@@ -1,6 +1,17 @@
 # Win_Security_Inspect
 
-Windows Server 安全加固巡检脚本 — 一键生成 HTML 安全报告
+![License](https://img.shields.io/badge/License-MIT-blue.svg)
+![PowerShell](https://img.shields.io/badge/PowerShell-5.1%2B-blue.svg)
+![Platform](https://img.shields.io/badge/Platform-Windows%20Server-0078D6.svg?logo=windows)
+![Version](https://img.shields.io/badge/Version-1.0-green.svg)
+
+**Windows Server 安全加固巡检脚本** — 一键生成 HTML 安全报告，覆盖 15 大检查模块，自动评分。
+
+## 报告预览
+
+<p align="center">
+  <img src="auto_img.jpeg" alt="巡检报告预览" width="700">
+</p>
 
 ## 功能概览
 
