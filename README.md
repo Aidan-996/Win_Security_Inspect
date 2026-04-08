@@ -10,7 +10,7 @@
 ## 报告预览
 
 <p align="center">
-  <img src="auto_img.jpeg" alt="巡检报告预览" width="700">
+  <img src="auto_img_1.jpeg" alt="巡检报告预览" width="700">
 </p>
 
 ## 功能概览
